@@ -1,0 +1,9 @@
+{
+  "name": "SNS_server",
+  "version": "1.0.0",
+  "description": "SNS - api",
+  "main": "index.js",
+  "repository": "https://github.com/DevMonsterCho/SNS_server.git",
+  "author": "DevMonster <dmcho84@gmail.com>",
+  "license": "MIT"
+}
